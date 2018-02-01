@@ -1,0 +1,6 @@
+/.idea
+/node_modules
+/addon/ayeer_api/build/.vs
+/addon/ayeer_api/build/Debug
+/addon/ayeer_api/build/Release/obj
+/addon/ayeer_api/build/Release/*.pdb
